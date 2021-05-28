@@ -1,1 +1,9 @@
-<iframe src="pro_portfolio.html" frameborder="0" marginheight="0" marginwidth="0" width="100%" height="100%" scrolling="auto" > </iframe>
+<!DOCTYPE html>
+<html>
+<body>
+<div w3-include-html="pro_portfolio.html"></div> 
+<script>
+includeHTML();
+</script>
+</body>
+</html>
